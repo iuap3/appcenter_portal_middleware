@@ -6,6 +6,9 @@
     * [应用场景](articles/portal/1-/scenarios.md)
     * [基础架构](articles/portal/1-/structure.md)
     * [产品历程](articles/portal/1-/history.md)
+* [快速入门](articles/portal/8-/quick_start.md)
+    * [场景一](articles/portal/8-/scenario_one.md)
+    * [场景二](articles/portal/8-/scenario_two.md)
 * [操作准备](articles/portal/2-/zhunbei.md)
     * [访问Portal中间件系统](articles/portal/2-/fangwen.md)
 * [Portal Server](articles/portal/3-/server.md)
@@ -26,5 +29,9 @@
 * [个性化](articles/portal/7-/gexinghua.md)
     * [定制功能](articles/portal/7-/dingzhigongneng.md)
     * [个性化功能](articles/portal/7-/gexinghuagn.md)
+* [产品常见问题](articles/portal/9-/questios.md)
+    * [常见问题](articles/portal/9-/concerns.md)
+
+
 
 
