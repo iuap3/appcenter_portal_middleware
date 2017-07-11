@@ -27,6 +27,7 @@
     * [Widget 管理](articles/portal/6-/wguanli.md)
     * [布局管理](articles/portal/6-/buju.md)
 * [个性化](articles/portal/7-/gexinghua.md)
+    * [个性化概述](articles/portal/7-/summary.md)
     * [定制功能](articles/portal/7-/dingzhigongneng.md)
     * [个性化功能](articles/portal/7-/gexinghuagn.md)
 * [产品常见问题](articles/portal/9-/questios.md)
