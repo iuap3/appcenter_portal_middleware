@@ -1,7 +1,10 @@
 # Table of content
 
-* [概述](articles/portal/1-/summerise.md)
-    * [产品介绍](articles/portal/1-/jieshao.md)
+* [产品介绍](articles/portal/1-/summerise.md)
+    * [产品概述](articles/portal/1-/jieshao.md)
+    * [产品优势](articles/portal/1-/advantages.md)
+    * [应用场景](articles/portal/1-/scenarios.md)
+    * [基础架构](articles/portal/1-/structure.md)    
     * [名词解释](articles/portal/1-/jieshi.md)
     * [产品特性](articles/portal/1-/texing.md)
 * [操作准备](articles/portal/2-/zhunbei.md)
