@@ -30,7 +30,7 @@
     * [个性化概述](articles/portal/7-/summary.md)
     * [定制功能](articles/portal/7-/dingzhigongneng.md)
     * [个性化功能](articles/portal/7-/gexinghuagn.md)
-* [产品常见问题](articles/portal/9-/questios.md)
+* [产品常见问题](articles/portal/9-/questions.md)
     * [常见问题](articles/portal/9-/concerns.md)
 
 
